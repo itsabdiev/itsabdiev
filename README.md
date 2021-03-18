@@ -1,6 +1,6 @@
 ### Hi there, I'm Atai Abdiev  👋
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/565/565408.svg?token=exp=1616040976~hmac=cb1d09ba76f1e8a8009a8e4484b3ed59" />]
 
-(https://www.flaticon.com/svg/vstatic/svg/565/565408.svg?token=exp=1616039737~hmac=094e095e239ad64456b8ee7e8f844ccd)] (https://itsabdiev.github.io/Everest/)
 
 ## I'm a Leader, Developer, and Conqueror!!
 
