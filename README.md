@@ -1,5 +1,5 @@
 ### Hi there, I'm Atai Abdiev  👋
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/565/565408.svg?token=exp=1616040976~hmac=cb1d09ba76f1e8a8009a8e4484b3ed59" />]
+<img align="left" alt="codeSTACKr.com" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/565/565408.svg?token=exp=1616040976~hmac=cb1d09ba76f1e8a8009a8e4484b3ed59" />
 
 
 ## I'm a Leader, Developer, and Conqueror!!
