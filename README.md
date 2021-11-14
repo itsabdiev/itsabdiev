@@ -1,6 +1,4 @@
 ### Hi there, I'm Atai Abdiev  👋
-<img align="left" alt="codeSTACKr.com" width="22px" src="https://w7.pngwing.com/pngs/639/449/png-transparent-computer-icons-website-icon-text-globe-symmetry.png" />
-
 
 ## I'm a Leader, Developer, and Conqueror!!
 
