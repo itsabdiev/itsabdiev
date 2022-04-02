@@ -24,7 +24,7 @@
 
 <img align="left" alt="Python" width="26px" src="https://media.tproger.ru/uploads/2021/05/python-cover-icon-original.png" />
 <img align="left" alt="Spring" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ5bi0SRdjIEoZmoHCOLq1FYYUWiWdXTMIaA&usqp=CAU" />
-<img align="left" alt="Java" width="26px" src="https://icon-library.com/images/java-icon-images/java-icon-images-0.jpg" />
+<img align="left" alt="Java" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" />
 <img align="left" alt="Boot" width="26px" src="https://miro.medium.com/max/856/1*O68LbDvD5Dcsnez73M7v4Q.png" />
 
 <br />
