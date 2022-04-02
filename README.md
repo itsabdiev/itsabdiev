@@ -24,8 +24,8 @@
 
 <img align="left" alt="Python" width="26px" src="https://media.tproger.ru/uploads/2021/05/python-cover-icon-original.png" />
 <img align="left" alt="Spring" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ5bi0SRdjIEoZmoHCOLq1FYYUWiWdXTMIaA&usqp=CAU" />
-<img align="left" alt="Java" width="26px" src="https://dev.java/assets/images/java-logo-vert-blk.png" />
-<img align="left" alt="Terminal" width="26px" src="https://cyber.pressball.by/wp-content/uploads/2021/05/10-1.png" />
+<img align="left" alt="Java" width="26px" src="https://www.comnews.ru/sites/default/files2019/articles/2021-02/Java.jpg" />
+<img align="left" alt="Boot" width="26px" src="https://miro.medium.com/max/856/1*O68LbDvD5Dcsnez73M7v4Q.png" />
 
 <br />
 <br />
@@ -34,12 +34,7 @@
 
 
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.itsabdiev.vercel.app/api?username=itsabdiev&show_icons=true&hide_border=true" />
-
-</details>
 
 [website]: https://itsabdiev.github.io/Everest/
 
