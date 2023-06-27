@@ -2,7 +2,7 @@
 
 
 
-## I'm a Leader, Developer, and Conqueror!
+### Leader, Developer, and Conqueror!
 
 - 🌍 Developer with 2 years experience
 - 💻 Favorite language is Java
