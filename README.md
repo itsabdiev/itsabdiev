@@ -1,4 +1,4 @@
-### Hi there, I'm Atai Abdiev  🐱‍👤
+### Hi there, I'm Atai Abdiev  ➡️
 
 
 
