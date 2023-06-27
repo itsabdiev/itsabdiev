@@ -55,7 +55,7 @@
 <img align="left" alt="Java" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" style="vertical-align:middle" />
 <img align="left" alt="Boot" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" style="vertical-align:middle" />
 <img align="left" alt="Boot" width="26px" src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/postman-icon.png" style="vertical-align:middle" />
-<img align="left" alt="Boot" width="26px" height = "26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Apache_kafka.svg/1200px-Apache_kafka.svg.png" style="vertical-align:middle" />
+<img align="left" alt="Boot" width="26px" height = "26px" src="https://uploads-ssl.webflow.com/62038ffc9cd2db4558e3c7b7/623b44a1913c46041e39c836_kafka.svg" style="vertical-align:middle" />
 <img align="left" alt="Boot" width="26px" src="https://junit.org/junit5/assets/img/junit5-logo.png" style="vertical-align:middle" />
 
 <br />
