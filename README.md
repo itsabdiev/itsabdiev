@@ -21,7 +21,7 @@
 
 <br />
 
-### Languages and Tools:
+### Teck Stack:
 
 
 
